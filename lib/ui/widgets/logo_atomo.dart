@@ -7,7 +7,7 @@ class LogoAtomo extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final items = [('At', cyan), ('O', yellow), ('Mn', coral), ('I', green), ('O', yellow)];
+    final items = [('At', cyan), ('O', yellow), ('M', coral), ('I', green), ('NO', white)];
 
     return Row(
       mainAxisAlignment: MainAxisAlignment.center,
